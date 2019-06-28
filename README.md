@@ -1,2 +1,2 @@
 # Face recognition
-OpenCV testing :)
+OpenCV testing :) and others recognition libs
